@@ -130,8 +130,10 @@ if (anak == "") {
 	var nama = prompt("Siapa nama anaknya:")
 	var x = prompt("Siapa nama ayahnya:")
 	var y = prompt("Siapa nama mamanya:")
-	papa = document.getElementById("dad").style.color = "black";
-	mama = document.getElementById("mom").style.color = "black";
+	var mamawarna = prompt("Color for MOM text:")
+	var papawarna = prompt("Color for DAD text:")
+	papa = document.getElementById("dad").style.color = mamawarna;
+	mama = document.getElementById("mom").style.color = papawarna;
 	papa = document.getElementById("dad").innerHTML = x;
 	mama = document.getElementById("mom").innerHTML = y;
 	kdname = document.getElementById("an").innerHTML = nama
