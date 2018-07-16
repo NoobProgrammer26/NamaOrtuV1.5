@@ -9,3 +9,5 @@ The updated version of NamaOrtu for Web version
 -Included with RESET button
 
 -Fixed some bugs
+
+-Added some missing name
