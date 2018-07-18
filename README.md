@@ -2,7 +2,7 @@
 
 The updated version of NamaOrtu for Web version
 
-# Changes in v1.5.1 (2018/07/18) :
+# Changes in v1.5 :
 
 -New design
 
@@ -10,4 +10,11 @@ The updated version of NamaOrtu for Web version
 
 -Fixed some bugs
 
+
+# Changes in v1.5.1 (2018/07/18) :
+
+-Fixed some bugs
+
 -Added some missing name
+
+-Fixed bug about some name won't show up.
