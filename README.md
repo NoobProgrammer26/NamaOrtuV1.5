@@ -10,11 +10,13 @@ The updated version of NamaOrtu for Web version
 
 -Fixed some bugs
 
+-Added some name
 
 # Changes in v1.5.1 (2018/07/18) :
 
 -Fixed some bugs
 
--Added some missing name
+-Added some name
 
--Fixed bug about some name won't show up.
+-Fixed bug on :
+ If you type one of the name ****(Censored for privacy reason) The Kid Name won't show up.
