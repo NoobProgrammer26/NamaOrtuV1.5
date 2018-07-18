@@ -19,6 +19,7 @@ if (anak == "") {
 } else if (anak == "ENOS") {
 	papa = document.getElementById("dad").innerHTML = "James Karosekali";
 	mama = document.getElementById("mom").innerHTML = "Erwina";
+	kdname = document.getElementById("an").innerHTML = anak
 	papa = document.getElementById("dad").style.color = "black";
 	mama = document.getElementById("mom").style.color = "black";
 } else if (anak == "FIEN") {
@@ -95,7 +96,7 @@ if (anak == "") {
 	papa = document.getElementById("dad").style.color = "black";
 	mama = document.getElementById("mom").style.color = "black";
 } else if (anak == "CMD.CREDITS") {
-	alert("CREDITS:\nDEVELOPER : GERALDI/NAME\nOriginal Java Application:Efran Nathanael\nPembantu Nama-Nama:\n-Nael\n-Tyo\n-Gita\nDAN\nYang suka ngatain.")
+	alert("CREDITS:\nDEVELOPER : GERALDI/NAME\nOriginal Java Application:Efran Nathanael\nPembantu Nama-Nama:\n-Nael\n-Tyo\n-Gita\n-Farel\nDAN\nYang suka ngatain.")
 } else if (anak == "LIO") {
 	papa = document.getElementById("dad").innerHTML = "Awan mangatas";
 	mama = document.getElementById("mom").innerHTML = "Trisna/Inung";
