@@ -187,6 +187,12 @@ if (anak == "") {
 	kdname = document.getElementById("an").innerHTML = anak
 	papa = document.getElementById("dad").style.color = "black";
 	mama = document.getElementById("mom").style.color = "black";
+} else if (anak == "MICKEY") {
+	papa = document.getElementById("dad").innerHTML = "Unknown/Another Error";
+	mama = document.getElementById("mom").innerHTML = "Fitri";
+	kdname = document.getElementById("an").innerHTML = anak
+	papa = document.getElementById("dad").style.color = "black";
+	mama = document.getElementById("mom").style.color = "black";
 } else if (anak == "CMD.HELP") {
 	alert("Command List :\n-Cmd.Credits : Gunanya untuk melihat Kredit\n-Cmd.TestName : Gunanya untuk mengetest nama anak dan ortu\n-Cmd.Help : Gunanya untuk melihat macam-macam command")
 } else {
