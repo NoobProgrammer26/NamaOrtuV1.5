@@ -12,7 +12,7 @@ The updated version of NamaOrtu for Web version
 
 -Added some name
 
-# Changes in v1.5.1 (2018/07/18) :
+# Changes in v1.5.1 A.K.A Version 1.5 Update 1 (2018/07/18) :
 
 -Fixed some bugs
 
